@@ -14,7 +14,7 @@ sites:
   - name: Tableau
     url: http://200.10.100.224:8000/
   - name: IIS de webServices
-    url: http://200.32.52.130:8088/hgesmedmain.aspx
+    url: http://sms.cooperativacredikot.com.ar:8088/hgesmedmain.aspx
     
 
 status-website:
