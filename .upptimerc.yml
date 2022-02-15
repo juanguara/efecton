@@ -14,7 +14,10 @@ sites:
   - name: Tableau
     url: http://200.10.100.224:8000/
   - name: IIS de webServices
-    url: http://sms.cooperativacredikot.com.ar:8088/hgesmedmain.aspx
+    url: http://200.32.52.130:8088/hgesmedmain.aspx
+  - name: BCRA
+    url: http://200.69.240.10:9999/aconsultapaws.aspx
+    
     
 
 status-website:
