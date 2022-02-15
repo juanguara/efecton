@@ -13,6 +13,8 @@ sites:
     url: https://ws02.nosis.com/soap11
   - name: Tableau
     url: http://200.10.100.224:8000/
+  - name: Rallyserie
+    url: http://www.rallyserie.net
     
 
 status-website:
