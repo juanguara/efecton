@@ -6,11 +6,11 @@ sites:
   - name: Efecton
     url: https://prestamo.efecton.com.ar
   - name: Sysgen
-    url: http://http://sms.cooperativacredikot.com.ar/hgesmedmain.aspx
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: http://sms.cooperativacredikot.com.ar/hgesmedmain.aspx
+  - name: Padron1
+    url: http://padronbcra.dyndns.info:9999/aconsultapaws.aspx?WSDL
+  - name: Nosis
+    url: https://ws02.nosis.com/soap11
     
 
 status-website:
