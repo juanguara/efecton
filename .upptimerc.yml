@@ -11,6 +11,8 @@ sites:
     url: http://padronbcra.dyndns.info:9999/aconsultapaws.aspx?WSDL
   - name: Nosis
     url: https://ws02.nosis.com/soap11
+  - name: Tableau
+    url: http://200.10.100.224:8000/
     
 
 status-website:
