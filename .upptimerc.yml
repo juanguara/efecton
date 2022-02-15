@@ -13,8 +13,8 @@ sites:
     url: https://ws02.nosis.com/soap11
   - name: Tableau
     url: http://200.10.100.224:8000/
-  - name: Carga de archivos
-    url: http://200.32.52.130:8088/aArchDigAltas_Riesgo_V2_WS.aspx
+  - name: IIS de webServices
+    url: http://200.32.52.130:8088/hgesmedmain.aspx
     
 
 status-website:
