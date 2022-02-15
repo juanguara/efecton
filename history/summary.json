@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/sms.cooperativacredikot.com.ar",
     "slug": "sysgen",
     "status": "up",
-    "uptime": "1.29%",
-    "uptimeDay": "1.29%",
-    "uptimeWeek": "1.29%",
-    "uptimeMonth": "1.29%",
-    "uptimeYear": "1.29%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1241,
     "timeDay": 1241,
     "timeWeek": 1241,
     "timeMonth": 1241,
     "timeYear": 1241,
-    "dailyMinutesDown": {
-      "2022-02-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Padron1",
