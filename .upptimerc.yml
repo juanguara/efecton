@@ -16,7 +16,7 @@ sites:
   - name: IIS de webServices
     url: http://200.32.52.130:8088/hgesmedmain.aspx
   - name: BCRA
-    url: http://200.69.240.10:9999/aconsultapaws.aspx
+    url: http://119.8.75.65:9999/aconsultapaws.aspx
     
     
 
