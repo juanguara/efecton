@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1635,
     "timeDay": 1732,
-    "timeWeek": 1635,
+    "timeWeek": 1640,
     "timeMonth": 1635,
     "timeYear": 1635,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1005,
     "timeDay": 1624,
-    "timeWeek": 1005,
+    "timeWeek": 998,
     "timeMonth": 1005,
     "timeYear": 1005,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 654,
     "timeDay": 779,
-    "timeWeek": 654,
+    "timeWeek": 679,
     "timeMonth": 654,
     "timeYear": 654,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1583,
     "timeDay": 1957,
-    "timeWeek": 1583,
+    "timeWeek": 1548,
     "timeMonth": 1583,
     "timeYear": 1583,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "http://200.10.100.224:8000/",
     "icon": "https://favicons.githubusercontent.com/200.10.100.224",
     "slug": "tableau",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,10 +84,12 @@
     "uptimeYear": "100.00%",
     "time": 352,
     "timeDay": 435,
-    "timeWeek": 352,
+    "timeWeek": 353,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 0
+    }
   },
   {
     "name": "IIS de webServices",
