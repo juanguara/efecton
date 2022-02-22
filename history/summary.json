@@ -76,19 +76,19 @@
     "url": "http://200.10.100.224:8000/",
     "icon": "https://favicons.githubusercontent.com/200.10.100.224",
     "slug": "tableau",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 435,
-    "timeWeek": 353,
-    "timeMonth": 352,
-    "timeYear": 352,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 348,
+    "timeDay": 360,
+    "timeWeek": 349,
+    "timeMonth": 348,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-02-22": 0
+      "2022-02-22": 9
     }
   },
   {
