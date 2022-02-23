@@ -13,7 +13,7 @@ sites:
     url: https://ws02.nosis.com/soap11
   - name: Tableau
     url: http://200.10.100.224:8000/
-  - name: IIS de webServices T
+  - name: IIS de webServices 
     url: http://200.32.52.130:8088/hgesmedmain.aspx
   - name: BCRACredikot
     url: http://119.8.75.65:9999/aconsultapaws.aspx
