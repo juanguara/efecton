@@ -96,19 +96,19 @@
     "url": "http://200.32.52.130:8088/hgesmedmain.aspx",
     "icon": "https://favicons.githubusercontent.com/200.32.52.130",
     "slug": "iis-de-web-services",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 803,
-    "timeDay": 892,
-    "timeWeek": 799,
-    "timeMonth": 803,
-    "timeYear": 803,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 812,
+    "timeDay": 926,
+    "timeWeek": 817,
+    "timeMonth": 812,
+    "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-02-27": 0
+      "2022-02-27": 5
     }
   },
   {
