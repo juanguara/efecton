@@ -40,9 +40,9 @@
     "url": "http://padronbcra.dyndns.info:9999/aconsultapaws.aspx?WSDL",
     "icon": "https://favicons.githubusercontent.com/padronbcra.dyndns.info",
     "slug": "padron1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.64%",
@@ -52,6 +52,7 @@
     "timeMonth": 664,
     "timeYear": 664,
     "dailyMinutesDown": {
+      "2022-02-27": 0,
       "2022-02-23": 62
     }
   },
