@@ -22,18 +22,20 @@
     "url": "http://sms.cooperativacredikot.com.ar/hgesmedmain.aspx",
     "icon": "https://favicons.githubusercontent.com/sms.cooperativacredikot.com.ar",
     "slug": "sysgen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 1254,
-    "timeWeek": 1018,
-    "timeMonth": 1012,
-    "timeYear": 1012,
-    "dailyMinutesDown": {}
+    "time": 1004,
+    "timeDay": 976,
+    "timeWeek": 986,
+    "timeMonth": 1004,
+    "timeYear": 1004,
+    "dailyMinutesDown": {
+      "2022-03-14": 2
+    }
   },
   {
     "name": "Padron1",
@@ -97,9 +99,9 @@
     "url": "http://200.32.52.130:8088/hgesmedmain.aspx",
     "icon": "https://favicons.githubusercontent.com/200.32.52.130",
     "slug": "iis-de-web-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,7 +110,9 @@
     "timeWeek": 804,
     "timeMonth": 809,
     "timeYear": 809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-14": 0
+    }
   },
   {
     "name": "BCRACredikot",
