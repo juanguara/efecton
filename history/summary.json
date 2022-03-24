@@ -83,9 +83,9 @@
     "url": "http://200.10.100.224:8000/",
     "icon": "https://favicons.githubusercontent.com/200.10.100.224",
     "slug": "tableau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -95,6 +95,7 @@
     "timeMonth": 391,
     "timeYear": 376,
     "dailyMinutesDown": {
+      "2022-03-24": 0,
       "2022-03-19": 17
     }
   },
