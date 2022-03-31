@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/padronbcra.dyndns.info",
     "slug": "padron1",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 763,
     "timeDay": 679,
     "timeWeek": 869,
@@ -83,18 +83,19 @@
     "url": "http://200.10.100.224:8000/",
     "icon": "https://favicons.githubusercontent.com/200.10.100.224",
     "slug": "tableau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 373,
     "timeDay": 284,
-    "timeWeek": 353,
+    "timeWeek": 358,
     "timeMonth": 379,
     "timeYear": 373,
     "dailyMinutesDown": {
+      "2022-03-31": 1,
       "2022-03-19": 17
     }
   },
@@ -103,9 +104,9 @@
     "url": "http://200.32.52.130:8088/hgesmedmain.aspx",
     "icon": "https://favicons.githubusercontent.com/200.32.52.130",
     "slug": "iis-de-web-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,7 +115,9 @@
     "timeWeek": 366,
     "timeMonth": 739,
     "timeYear": 766,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 0
+    }
   },
   {
     "name": "BCRACredikot",
