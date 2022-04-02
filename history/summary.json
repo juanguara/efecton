@@ -83,9 +83,9 @@
     "url": "http://200.10.100.224:8000/",
     "icon": "https://favicons.githubusercontent.com/200.10.100.224",
     "slug": "tableau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -95,6 +95,7 @@
     "timeMonth": 374,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-19": 17
     }
   },
@@ -104,11 +105,11 @@
     "icon": "https://favicons.githubusercontent.com/200.32.52.130",
     "slug": "iis-de-web-services",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 758,
     "timeDay": 829,
     "timeWeek": 481,
