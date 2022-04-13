@@ -50,7 +50,7 @@
     "uptimeYear": "99.25%",
     "time": 768,
     "timeDay": 833,
-    "timeWeek": 791,
+    "timeWeek": 808,
     "timeMonth": 790,
     "timeYear": 768,
     "dailyMinutesDown": {
@@ -85,9 +85,9 @@
     "url": "http://200.10.100.224:8000/",
     "icon": "https://favicons.githubusercontent.com/200.10.100.224",
     "slug": "tableau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -97,6 +97,7 @@
     "timeMonth": 374,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2022-04-13": 0,
       "2022-03-19": 17
     }
   },
