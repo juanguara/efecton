@@ -1,7 +1,7 @@
 url: https://ws02.nosis.com/soap11
-status: up
-code: 200
-responseTime: 1753
-lastUpdated: 2022-04-14T23:05:54.546Z
+status: down
+code: 404
+responseTime: 1332
+lastUpdated: 2022-04-15T22:43:29.603Z
 startTime: Tue Feb 15 2022 00:27:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
