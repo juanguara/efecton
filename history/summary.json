@@ -45,11 +45,11 @@
     "icon": "https://favicons.githubusercontent.com/padronbcra.dyndns.info",
     "slug": "padron1",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 759,
     "timeDay": 569,
     "timeWeek": 743,
@@ -88,9 +88,9 @@
     "url": "http://200.10.100.224:8000/",
     "icon": "https://favicons.githubusercontent.com/200.10.100.224",
     "slug": "tableau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -100,6 +100,7 @@
     "timeMonth": 378,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2022-05-07": 0,
       "2022-03-19": 17
     }
   },
