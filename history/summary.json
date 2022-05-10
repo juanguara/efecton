@@ -24,9 +24,9 @@
     "url": "http://sms.cooperativacredikot.com.ar/hgesmedmain.aspx",
     "icon": "https://favicons.githubusercontent.com/sms.cooperativacredikot.com.ar",
     "slug": "sysgen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -36,6 +36,7 @@
     "timeMonth": 917,
     "timeYear": 993,
     "dailyMinutesDown": {
+      "2022-05-10": 0,
       "2022-03-14": 33
     }
   },
@@ -129,18 +130,18 @@
     "icon": "https://favicons.githubusercontent.com/119.8.75.65",
     "slug": "bcra-credikot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
     "time": 379,
     "timeDay": 356,
     "timeWeek": 364,
     "timeMonth": 368,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-05-10": 0
+      "2022-05-10": 39
     }
   }
 ]
