@@ -1,7 +1,7 @@
 url: http://sms.cooperativacredikot.com.ar/hgesmedmain.aspx
-status: up
-code: 200
-responseTime: 1163
-lastUpdated: 2022-05-15T05:41:40.082Z
+status: down
+code: 500
+responseTime: 1918
+lastUpdated: 2022-05-15T06:37:25.264Z
 startTime: Tue Feb 15 2022 00:19:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
